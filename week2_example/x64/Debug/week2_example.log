@@ -1,0 +1,7 @@
+﻿  Asset.cpp
+  AssetController.cpp
+D:\Sheridan\Semester6\GameEngineering\week2_example\StackAllocator.h(13,46): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  main.cpp
+D:\Sheridan\Semester6\GameEngineering\week2_example\StackAllocator.h(13,46): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  week2_example.vcxproj -> D:\Sheridan\Semester6\GameEngineering\week2_example\x64\Debug\week2_example.exe
